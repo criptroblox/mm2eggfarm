@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/criptroblox/scriptix/refs/heads/main/scriptix"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/criptroblox/scriptix2/refs/heads/main/2222"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring"))()
